@@ -27,4 +27,4 @@
 
 ● <a href="https://gabrielbaiadias.github.io/Descubra_me/pagina3.html" target="_blank">Descubra.me</a>
 
-![Snake animation](https://github.com/GabrielBaiaDias/GabrielBaiaDias/blob/main/github-contribution-grid-snake.svg)
+//![Snake animation](https://github.com/GabrielBaiaDias/GabrielBaiaDias/blob/main/github-contribution-grid-snake.svg)
